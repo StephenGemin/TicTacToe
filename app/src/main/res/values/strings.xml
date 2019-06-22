@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToeLocal</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="p1">Player 1 wins the game!!</string>
+    <string name="p2">Player 2 wins the game!!</string>
+    <string name="draw">Draw, play again!!</string>
+
+</resources>
